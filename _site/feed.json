@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The 603 Project",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/assets/images/fav32.png",
+    "expired": false,
+    
+    "author": "@lengerfulluse",
+    
+"items": [
+    
+    ]
+}
